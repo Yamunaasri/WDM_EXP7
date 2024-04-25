@@ -1,5 +1,6 @@
-### EX7 Implementation of Link Analysis using HITS Algorithm
-### DATE: 
+<H1 align = center>EX7 Implementation of Link Analysis using HITS Algorithm</H1>
+
+### DATE: 28.04.2024
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
 <div align = "justify">
